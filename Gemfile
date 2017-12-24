@@ -36,7 +36,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-
+# stripe payment
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
